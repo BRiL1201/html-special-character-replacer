@@ -1,0 +1,16 @@
+{
+  "name": "html-special-character-replacer",
+  "main": "./lib/html-special-character-replacer",
+  "version": "0.1.0",
+  "description": "Replace special characters with HTML Symbol decimal value.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "html-special-character-replacer:replace"
+  },
+  "repository": "https://github.com/BRiL1201/html-special-character-replacer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

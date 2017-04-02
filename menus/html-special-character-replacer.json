@@ -1,0 +1,26 @@
+{
+	"context-menu": {
+		"atom-text-editor": [
+			{
+				"label": "HTML Special Character Replacer",
+				"command": "html-special-character-replacer:replace"
+			}
+		]
+	},
+	"menu": [
+		{
+			"label": "Packages",
+			"submenu": [
+				{
+					"label": "HTML Special Character Replacer",
+					"submenu": [
+						{
+							"label": "Replace Chars",
+							"command": "html-special-character-replacer:replace"
+						}
+					]
+				}
+			]
+		}
+	]
+}
