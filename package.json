@@ -1,7 +1,7 @@
 {
   "name": "html-special-character-replacer",
   "main": "./lib/html-special-character-replacer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Replace special characters with HTML Symbol decimal value.",
   "keywords": [],
   "activationCommands": {
